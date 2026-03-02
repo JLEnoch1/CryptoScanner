@@ -1,7 +1,7 @@
 # CryptoScanner
 自动化识别壳混淆加密工具
 <div align="center">
-  # CryptoScanner 🛡️
+   CryptoScanner 🛡️
   
   **An automated binary analysis framework designed to defeat modern obfuscation techniques.**
   
