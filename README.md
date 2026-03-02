@@ -1,7 +1,7 @@
 # CryptoScanner
 自动化识别壳混淆加密工具
 <div align="center">
-  <img src="https://via.placeholder.com/150?text=Shield+Scanner" alt="CryptoScanner Logo" width="120" height="120">
+  #<img src="https://via.placeholder.com/150?text=Shield+Scanner" alt="CryptoScanner Logo" width="120" height="120">
   
   # CryptoScanner 🛡️
   
@@ -67,8 +67,9 @@ python main.py --gui
 
 <div align="center">
 
-  <img src="C:\Users\13710\Desktop\ever_project\2026毕业论文\5工具CryptoScanner运行时.png" alt="Entropy Analysis">
+  <img src="docs/picture1.png" alt="Entropy Analysis">
   <p><i>Fig 1. Real-time entropy analysis of a packed executable showing decryption phases.</i></p>
+    <img src="docs/picture2.png" alt="Entropy Analysis">
 </div>
 
 ---
