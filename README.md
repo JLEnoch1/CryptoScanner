@@ -74,7 +74,7 @@ python main.py --gui
 ## 🏗️ System Architecture
 
 CryptoScanner follows a modular pipeline architecture designed for extensibility.
-
+````markdown
 ```mermaid
 graph LR
     A[Input Binary] --> B(Static Analyzer)
