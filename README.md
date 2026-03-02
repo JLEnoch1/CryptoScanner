@@ -80,8 +80,8 @@ CryptoScanner follows a modular pipeline architecture designed for extensibility
 graph LR
     A[Input Binary] --> B(Static Analyzer)
     B --> C{Is Packed?}
-    C -- Yes --> D[Dynamic Tracer (Frida)]
-    C -- No --> E[Report Generator]
+    C -->|Yes| D[Dynamic Tracer (Frida)]
+    C -->|No| E[Report Generator]
     D --> F[Memory Dump]
     F --> G[De-obfuscation Engine]
     G --> E
