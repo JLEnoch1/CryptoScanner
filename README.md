@@ -66,8 +66,8 @@ python main.py --gui
 ## 📸 Screenshots
 
 <div align="center">
-  <!-- Replace with your actual screenshot/GIF -->
-  <img src="https://via.placeholder.com/800x400?text=Real-time+Entropy+Analysis+Graph" alt="Entropy Analysis">
+
+  <img src="C:\Users\13710\Desktop\ever_project\2026毕业论文\5工具CryptoScanner运行时.png" alt="Entropy Analysis">
   <p><i>Fig 1. Real-time entropy analysis of a packed executable showing decryption phases.</i></p>
 </div>
 
