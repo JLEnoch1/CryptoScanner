@@ -1,8 +1,6 @@
 # CryptoScanner
 自动化识别壳混淆加密工具
 <div align="center">
-  #<img src="https://via.placeholder.com/150?text=Shield+Scanner" alt="CryptoScanner Logo" width="120" height="120">
-  
   # CryptoScanner 🛡️
   
   **An automated binary analysis framework designed to defeat modern obfuscation techniques.**
