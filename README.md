@@ -70,7 +70,7 @@ python main.py --gui
     <img src="docs/picture2.png" alt="Entropy Analysis">
 </div>
 
-````markdown
+---
 ## 🏗️ System Architecture
 
 CryptoScanner follows a modular pipeline architecture designed for extensibility.
